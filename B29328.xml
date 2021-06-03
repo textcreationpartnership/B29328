@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The scheme of the proposals for making a fund for granting annuities for lives, &amp;c. With the terms of joyning the same to the million-bank. Answered, and the fallacy detected.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29328</idno><idno type="EEBO-CITATION">99886039</idno>
+  <idno type="VID">186410</idno>
+  <idno type="EEBO-PROQUEST">2240889038</idno>
+  
+            <idno type="STC">Wing S865aA</idno>
+            <idno type="STC">Interim Tract Supplement Guide 712.m.1[42]</idno>
+            <idno type="STC">ESTC R225321</idno>
+            <idno type="STC">ESTC R225334</idno>
+            <idno type="PROQUEST">ocm99886039</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886039e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29328)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186410)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C4:3[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The scheme of the proposals for making a fund for granting annuities for lives, &amp;c. With the terms of joyning the same to the million-bank. Answered, and the fallacy detected.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Imperfect? Filmed copy ends p. [2] on catchword 'all'.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Banks and banking --  England --  Early works to 1800.</term>
+               <term type="topical_term">Finance --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:186410:1"/>
+            <head>The <hi>Scheme</hi> of the <hi>Proposals</hi> for making a Fund for grant<g ref="char:EOLhyphen"/>ing Annuities for Lives, <hi>&amp;c.</hi> With the terms of Joyning the same to the <hi>Million-Bank.</hi> Answered, and the fallacy detected.</head>
+            <p>HAving heard the said Proposals for granting Annuities, <hi>&amp;c.</hi> very highly applauded, and meeting the Project in Print, dated the 24th of <hi>October,</hi> 1695. I expected to find some<g ref="char:EOLhyphen"/>thing extraordinary therein; but at the first reading thereof, I found it a project cunning<g ref="char:EOLhyphen"/>ly put together, with a design to deceive Innocent and Well-meaning Persons, and to draw them into an apparent loss, under the pretence of Letting them into a more than ordinary Profit and Advantage.</p>
+            <p>It was affirmed some time since, That the design was laid to serve the <hi>Million Bank,</hi> the ill Managery whereof had rendred their Credit suspected. And that which might be a reasonable ground of such Report, was, That the <hi>Projector</hi> of the Annuities is Father to one of the Di<g ref="char:EOLhyphen"/>rectors of the said Bank, and very well acquainted with the rest of them, who being a person of a Fair Reputation, was made use of by them as a fit Instrument to accomplish such their designs.</p>
+            <p>But to wave what might be said in relation thereto, I shall apply my self to the Printed Paper, wherein the Directors of the Million Bank bring up the Rear. And that the Reader may not be confounded with their different Proposals; I shall take notice thereof, as it is already divi<g ref="char:EOLhyphen"/>ded by them into three parts. The first consisting of nine particulars, I will for distinctions sake call the <hi>Proposals.</hi>
+            </p>
+            <p>The second part consisting of eleven particulars, I shall call the <hi>Propositions.</hi>
+            </p>
+            <p>The third part consisting of six Particulars, being their Project of Union, I shall call the <hi>Project.</hi>
+            </p>
+            <p>In the <hi>Proposals,</hi> it is Provided, That any Person may Subscribe Money or Land for granting Annuities for term of years, or for One, Two, or Three Lives, at 10, 12, and 14 years pur<g ref="char:EOLhyphen"/>chase, renewable at any time for a reasonable Fine.</p>
+            <p>That the Money-subscribers should have six pounds <hi>per Cent. per Annum</hi> Interest for their Money. And the Subscribers for Land should be accommodated with Money at three pounds <hi>per Cent. per Annum</hi> Interest, and the remainder of the Profit to be divided between the Land and Money.</p>
+            <p>That any Person may Subscribe to purchase Annuities at the aforesaid rates, and the Sub<g ref="char:EOLhyphen"/>scribers of Money may, if they think fit, transfer the same to the account of Annuities for a term of years, or for One, Two, or Three Lives, as they like best. But that the Money or what is purchased therewith, shall in the first place be liable to pay the said Annuities; and in case they fall short, the Land to be charged. With liberty given to the Subscribers, of revoking till the 4th of <hi>November</hi> next.</p>
+            <p>The Propositions tells us how much the Fund of Money and Land is intended to be, <hi>viz.</hi> 120000 <hi>l.</hi> to be paid before the 9th of <hi>November,</hi> 100000 <hi>l.</hi> whereof to be laid out in purchasing 20000 <hi>l. per Annum</hi> in Reversions, on the Lives in the Exchequer: and the remaining 20000 <hi>l.</hi> to buy about 3000 <hi>l. per Annum</hi> of Lottery Tickets for 15 years: which 20000 <hi>l. per Annum,</hi> in Reversion, and the 3000 <hi>l. per Annum</hi> in possession for 15 years, is to be backt with 20000 <hi>l. per Annum</hi> Land, whereupon to grant Annuities for One, Two, or Three Lives, to the value of 20000 <hi>l. per Annum;</hi> which at 11 years purchase (the Medium of the rates proposed) will come to 220000 <hi>l.</hi> with 120000 <hi>l.</hi> of which they propose to purchase 17000 <hi>l. per Annum</hi> more of Lottery Tickets to make the first 3000 <hi>l. per Annum.</hi> 20000 <hi>l. per Annum</hi> in possession; and the remaining 100000 <hi>l.</hi> is to be lent to the Land-subscribers at 3 <hi>l. per Cent. per Annum,</hi> and the Remainder of the profits is to divided, <hi>viz.</hi> Two thirds to the subscribers of the 120000 in money, And one third to the subscribers, of 400000 <hi>l.</hi> value in Land, being 20000 <hi>l. per Annum</hi> at 20 years purchase; which (say they) by a modest computation may make 16 <hi>l. per Cent. per Annum</hi> to the money, and near 30 <hi>l. per Annum</hi> on every 100 <hi>l. per Annum</hi> in Land. And that the said Fund may not fail, one fifth part of the profits, shall during the 15 years be annually laid out to pur<g ref="char:EOLhyphen"/>chase something to answer those lives that may happen to be then left, of those that the reversions were purchased from the Exchequer.</p>
+            <p>Having thus briefly run through their <hi>Proposals</hi> and <hi>Propositions,</hi> it remains, That I examine how the proposed profit is like to arise, and what the fifth part of the profit will amount to that is to be laid out annually to purchase an equivalent to the lives that happen to be left as aforesaid. And that the Gentlemens modesty in their computation may more plainly appear; I shall for once state their accompt of profit by way of Debtor and Creditor, <hi>viz.</hi>
+            </p>
+            <pb facs="tcp:186410:2"/>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">Money is</cell>
+                     <cell role="label">
+                        <hi>Dr.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Subscribed, for which is to be paid 6 <hi>l. per Cent. per Annum.</hi>
+                     </cell>
+                     <cell>120000 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Received for 20000 <hi>l. per An<g ref="char:EOLhyphen"/>num,</hi> Annuities at 11 years purchase.</cell>
+                     <cell>220000 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">340000 <hi>l.</hi>
+                     </cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell role="label">Money is</cell>
+                     <cell role="label">
+                        <hi>Cr.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Paid for 20000 <hi>l. per Annum</hi> Reversions.</cell>
+                     <cell>100000 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Paid for 3000 <hi>l. per An<g ref="char:EOLhyphen"/>num,</hi> Lottery Tickets▪</cell>
+                     <cell>20000 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Paid for 17000 <hi>l. per Annum.</hi> Do.</cell>
+                     <cell>120000 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Lent the Landed Men at 3 <hi>l. per Cent. per Annum.</hi>
+                     </cell>
+                     <cell>100000 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">340000 <hi>l.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>By which account of money it appears that they have made their Bread and Cheese even, and laid out their whole money to a farthing.</p>
+            <p>It remains that I now examine how much <hi>per Annum</hi> will come in clear to the subscribers, which will more plainly appear by the ballance of their annual incomes.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Annual Incomes.</hi>
+                     </cell>
+                     <cell role="label">Dr.</cell>
+                  </row>
+                  <row>
+                     <cell>To Interest paid the Money'd men for 120000 <hi>l.</hi> at 6 <hi>l. per Cent. per Annum.</hi>
+                     </cell>
+                     <cell>7200 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>To Annuities sold at 11 years purchase, <hi>per Annum.</hi>
+                     </cell>
+                     <cell>20000 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>per Annum</hi>
+                     </cell>
+                     <cell role="total">27200 <hi>l.</hi>
+                     </cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Annual Incomes.</hi>
+                     </cell>
+                     <cell role="label">Cr.</cell>
+                  </row>
+                  <row>
+                     <cell>By 20000 <hi>l. per Annum</hi> in Rever<g ref="char:EOLhyphen"/>sion.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Lottery Tickets in possession for 15 years <hi>per Annum.</hi>
+                     </cell>
+                     <cell>20000 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>By Interest for 100000 <hi>l.</hi> lent at 3 <hi>l. per Cent. per Annum.</hi>
+                     </cell>
+                     <cell>3000 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Paid every year more than re<g ref="char:EOLhyphen"/>ceived <hi>per Annum.</hi>
+                     </cell>
+                     <cell>4200 <hi>l.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">27200 <hi>l.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>So that it is plain by this account, that there will be got every year 4200 <hi>l. per Annum</hi> over the left shoulder, besides the charges that will necessarily attend it; which I leave our modest Gentlemen to divide between the Landed and Monied men, and hope that neither party being so flusht with success will knock Logger-Heads together about making the Dividend; For nothing is more plain than instead of a great profit the subscribers will be brought into an apparent loss, and all that they can expect to help themselves is to wait for Dead Folks shoes, and if no more than one fourth part of those upon whose lives the Reversions depend, and the like part of those to whom the annuities shall be granted shall dye in 15 years, at which time the 20000 <hi>l. per Annum,</hi> payable out of the Lottery Tickets will expire, as it is very probable not above that number may dye, there will be then above 14000 <hi>l. per Annum</hi> clear loss, so that here will be a certain disadvantage, and no gain can be expected till 30 or 40 years hence.</p>
+            <p>Besides I cannot but remark their great disingenuity in suggesting that they can buy the value of 140000 in Lottery Tickets at the present Market price, they having already published their design of so doing in print, so that it's most evident they never designed the thing, but only to lay Baits to catch Woodcocks, or in plain English to draw in Innocent persons to support their tottering Bank.</p>
+            <p>I come now to their <hi>Project of Ʋnion,</hi> wherein they tell us that 50 <hi>l. per Cent.</hi> of the said Bank stock is already paid in, but I doubt they have as little honesty as they have modesty, else they would fairly have publisht that in little more than three months time; they have drawn out 4 <hi>l.</hi> for every 50 <hi>l.</hi> that is in the Bank under the pretence of making a dividend, so that <hi>bona fide</hi> there cannot be more than 46 <hi>l. per Cent.</hi> in the Bank, if there be so much, for it is most apparent their business hath not been so considerable as to get any thing by it. So far have they been from get<g ref="char:EOLhyphen"/>ting any thing to divide.</p>
+            <p>But what is further worthy of observation, they tell us that the other 50 <hi>l. per Cent.</hi> Is suspend<g ref="char:EOLhyphen"/>ed or delayed till there shall be occasion for the same. And yet in a few lines after, they tell us they will admit of a further subscription, of an Additional stock for their Bank.</p>
+            <p>If they have no occasion for money they need not open their books, if they have, why do they not pay in the other 50 <hi>l. per Cent?</hi> So that nothing is more plain than that they want a stock of money, and being conscious to themselves that none will subscribe to their Bank, they have made use of this project as a <hi>decoy</hi> to draw in fresh people to be engaged with them.</p>
+            <p>For if it were so profitable as is pretended, those who rule the Roast among them, it's well known, have too narrow souls to forgo an advantage of 16 <hi>l. per Cent. per Annum,</hi> to complement others into their Bank; but if they believe what they themselves assert, they would undoubtedly have called in the other 50 <hi>l. per Cent.</hi> which they tell us is suspended till there shall be occasion for the same as aforesaid. Much more might be said on the same subject, but I shall conclude, having limitted my self to half a sheet of paper.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
